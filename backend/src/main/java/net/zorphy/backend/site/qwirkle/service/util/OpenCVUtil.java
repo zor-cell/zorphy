@@ -12,7 +12,7 @@ import java.util.*;
 
 public class OpenCVUtil {
     private static final boolean DEBUG = true;
-    private static final String basePath = "C:\\Users\\Zorman\\Zorman\\Privat\\Programme\\Java\\WebApplication\\backend\\opencv\\";
+    private static final String basePath = "C:\\Users\\Zorman\\Zorman\\Privat\\Programme\\Java\\zorphy\\backend\\opencv\\";
 
     public static void main(String[] args) {
         OpenCV.loadLocally();

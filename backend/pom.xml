@@ -11,7 +11,7 @@
 	<groupId>net.zorphy</groupId>
 	<artifactId>backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WebApplication</name>
+	<name>zorphy</name>
 	<description>Backend Server</description>
 	<url/>
 	<licenses>

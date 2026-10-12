@@ -1,14 +1,14 @@
 # Web Application
 ## Description
 This repository contains a full stack web application for my coding projects, which is hosted on a self-hosted GitHub runner.
-More in-depth technical details of this project can be found in the [Wiki](https://github.com/zor-cell/WebApplication/wiki) of this repository. 
+More in-depth technical details of this project can be found in the [Wiki](https://github.com/zor-cell/zorphy/wiki) of this repository. 
 
 The project includes descriptions and websites for my coding projects. The exposed
 entry points for my application are the following:
 * Frontend - [zorphy.net](https://zorphy.net)
 * Backend - [server.zorphy.net](https://zorphy.net)
 
-Made by [Philippe Zorman](https://github.com/zor-cell/WebApplication/tree/master)
+Made by [Philippe Zorman](https://github.com/zor-cell/zorphy/tree/master)
 
 ## Services
 The project exposes three main services at the moment:
@@ -90,4 +90,4 @@ This will run all services locally. The services can then be reached on these po
 ## Deployment
 The web application is automatically deployed by a CI/CD pipeline with a GitHub runner. The application is deployed to the host server with Docker Compose to manage all the different services.
 
-A more detailed documentation can be found on this repositories wiki pages [here](https://github.com/zor-cell/WebApplication/wiki/Deployment). 
+A more detailed documentation can be found on this repositories wiki pages [here](https://github.com/zor-cell/zorphy/wiki/Deployment). 
